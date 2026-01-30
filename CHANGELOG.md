@@ -1,4 +1,6 @@
 # Changelog
 ## [1.0.0] 
 ### Added
-- Initial project structure 
+-  project structure 
+### Added
+- Project logo (logo.png)
